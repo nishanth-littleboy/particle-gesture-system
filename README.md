@@ -1,4 +1,4 @@
-##🎥 Particle Gesture System:
+## 🎥 Particle Gesture System:
 
 A real-time 3D particle interaction system built with Three.js and MediaPipe Hands, where users control particle shapes, motion, zoom, and rotation using hand gestures captured from a webcam.
 
@@ -43,7 +43,7 @@ A real-time 3D particle interaction system built with Three.js and MediaPipe Han
  - MediaPipe Hands detects 21 hand landmarks
  - Gestures (pinch, distance, angle) are calculated
 
-# These values control:
+#These values control:
  - Particle position
  - Scale (zoom)
  - Rotation
